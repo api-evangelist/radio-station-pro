@@ -18,6 +18,11 @@ url: >-
 created: '2026-03-16'
 modified: '2026-04-28'
 specificationVersion: '0.19'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/netmix
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/netmixco
 apis: []
 maintainers:
   - FN: Kin Lane
