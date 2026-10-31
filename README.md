@@ -1,4 +1,4 @@
-# Radio Station Pro (radio-station-pro)
+# Radio Station Pro
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,33 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Radio Station Pro is a premium WordPress plugin for managing online radio stations, schedules, DJs, shows, and playlists. No public REST API has been published by the vendor at this time.
+Radio Station Pro is a WordPress plugin for managing online radio stations, schedules, DJs, shows, and playlists. No public REST API has been published by the vendor at this time.
 
-**APIs.yml URL:** [apis.yml](https://raw.githubusercontent.com/api-evangelist/radio-station-pro/refs/heads/main/apis.yml)
+**Areas:** Radio · Streaming · WordPress · Broadcasting
 
-## Scope
+## Radio Station Pro on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Radio Station Pro is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/radio-station-pro/](https://apis.io/providers/radio-station-pro/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## Where to find this API
 
-- Radio
-- Streaming
-- WordPress
-- Broadcasting
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Timestamps
+- [GitHub](https://github.com/netmix)
 
-- **Created:** 2026-03-16
-- **Modified:** 2026-04-28
+## API Evangelist rating
 
-## APIs
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-No public API surface is currently documented for Radio Station Pro. This entry is preserved as an index reference; an OpenAPI specification will be added if/when a public API is published.
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Maintainers
+## How this profile is made
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Radio Station Pro: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/radio-station-pro/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
